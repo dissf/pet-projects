@@ -2,9 +2,9 @@
 
 ## Оглавление
 
-[1. Основные цели и задачи проекта](https://github.com/disff/pet-projects/DA_DA/sql_analytics/README.md#Основные-цели-и-задачи-проекта)  
-[2. Краткая информация о данных](https://github.com/disff/pet-projects/DA_DA/sql_analytics/README.md#Краткая-информация-о-данных)  
-[3. Полезные библиотеки](https://github.com/disff/pet-projects/DA_DA/sql_analytics/README.md#Полезные-библиотеки)
+[1. Основные цели и задачи проекта](https://github.com/disff/pet-projects/DA_DS/sql_analytics/README.md#Основные-цели-и-задачи-проекта)  
+[2. Краткая информация о данных](https://github.com/disff/pet-projects/DA_DS/sql_analytics/README.md#Краткая-информация-о-данных)  
+[3. Полезные библиотеки](https://github.com/disff/pet-projects/DA_DS/sql_analytics/README.md#Полезные-библиотеки)
 
 ### Основные цели и задачи проекта
 
