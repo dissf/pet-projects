@@ -6,4 +6,4 @@
 | 2 | [Text analysis](https://github.com/dissf/pet-projects/tree/main/DA_DS/text_analysis) | Спарсить информацию о всех видео с канала, в том числе субтитры, выяснить частоту появления нецензурной лексики в видео | pandas, pymorphy2, nltk, youtube api |
 | 3 | [SQL analytics](https://github.com/dissf/pet-projects/tree/main/DA_DS/sql_analytics) | Проанализировать базу данных, рассчитать ключевые продуктовые метрики и визуализировать | pandas, seaborn, matplotlib, sqlalchemy |
 | 4 | [Speed dating](https://github.com/dissf/pet-projects/tree/main/DA_DS/speed_dating) | Построить модель классификации предпочтений людей и оценить ее точность с помощью метрик| pandas, numpy, sklearn |
-| 5 | [Instagram analysis](https://github.com/dissf/pet-projects/tree/main/DA_DS/instagram_analysis) | Провести анализ топ-200 популярных аккаунтов Instagram и визуализировать | pandas, matplotlib, seaborn |
+| 5 | [Instagram analysis](https://github.com/dissf/pet-projects/tree/main/DA_DS/Instagram_analysis) | Провести анализ топ-200 популярных аккаунтов Instagram и визуализировать | pandas, matplotlib, seaborn |
