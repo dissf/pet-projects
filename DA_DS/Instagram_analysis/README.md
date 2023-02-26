@@ -2,9 +2,9 @@
 
 ## Оглавление
 
-[1. Основные цели и задачи проекта](https://github.com/dissf/pet-projects/tree/main/DA_DS/Instagram_analysis/README.md#Основные-цели-и-задачи-проекта)  
-[2. Краткая информация о данных](https://github.com/dissf/pet-projects/tree/main/DA_DS/Instagram_analysis/README.md#Краткая-информация-о-данных)  
-[3. Полезные библиотеки](https://github.com/dissf/pet-projects/tree/main/DA_DS/Instagram_analysis/README.md#Полезные-библиотеки)
+[1. Основные цели и задачи проекта](https://github.com/dissf/pet-projects/blob/main/DA_DS/Instagram_analysis/README.md#Основные-цели-и-задачи-проекта)  
+[2. Краткая информация о данных](https://github.com/dissf/pet-projects/blob/main/DA_DS/Instagram_analysis/README.md#Краткая-информация-о-данных)  
+[3. Полезные библиотеки](https://github.com/dissf/pet-projects/blob/main/DA_DS/Instagram_analysis/README.md#Полезные-библиотеки)
 
 ### Основные цели и задачи проекта
 
