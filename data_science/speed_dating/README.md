@@ -2,9 +2,9 @@
 
 ## Оглавление
 
-[1. Основные цели и задачи проекта](https://github.com/dissf/pet-projects/blob/main/DA_DS/speed_dating/README.md#Основные-цели-и-задачи-проекта)  
-[2. Краткая информация о данных](https://github.com/dissf/pet-projects/blob/main/DA_DS/speed_dating/README.md#Краткая-информация-о-данных)  
-[3. Полезные библиотеки](https://github.com/dissf/pet-projects/blob/main/DA_DS/speed_dating/README.md#Полезные-библиотеки)
+[1. Основные цели и задачи проекта](https://github.com/dissf/pet-projects/blob/main/data_science/speed_dating/README.md#Основные-цели-и-задачи-проекта)  
+[2. Краткая информация о данных](https://github.com/dissf/pet-projects/blob/main/data_science/speed_dating/README.md#Краткая-информация-о-данных)  
+[3. Полезные библиотеки](https://github.com/dissf/pet-projects/blob/main/data_science/speed_dating/README.md#Полезные-библиотеки)
 
 ### Основные цели и задачи проекта
 
