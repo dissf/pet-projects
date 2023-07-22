@@ -7,6 +7,3 @@
 | 3 | [SQL analysis](https://github.com/dissf/pet-projects/tree/main/data_analytics/sql_analysis) | Провести анализ базы данных, вычислить основные продуктовые метрики и создать наглядные визуализации для представления результатов | pandas, seaborn, matplotlib, sqlalchemy |
 | 4 | [Speed dating](https://github.com/dissf/pet-projects/tree/main/data_science/speed_dating) | Создать модель классификации предпочтений людей и оценить ее точность| pandas, numpy, sklearn |
 | 5 | [A/B test](https://github.com/dissf/pet-projects/tree/main/data_analytics/ab_test) | Исследовать влияние новой веб-страницы на увеличение конверсии в сравнении со старой путем анализа результатов эксперимента, где пользователи сайта просматривали обе версии страницы | pandas, numpy, scipy |  
-  
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dissf&label=Profile%20views&color=0e75b6&style=flat" alt="dissf" /> </p>
